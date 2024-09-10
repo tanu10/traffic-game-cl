@@ -10,6 +10,7 @@ To run the experiment
 $ python3 environment.py
 
 ## Citing CL
+```
 @inproceedings{verma2020correlated,
   title={Correlated Learning for Aggregation Systems},
   author={Verma, Tanvi and Varakantham, Pradeep},
@@ -18,3 +19,4 @@ $ python3 environment.py
   year={2019},
   organization={PMLR}
 }
+```
